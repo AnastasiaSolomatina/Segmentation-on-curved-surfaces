@@ -1,1 +1,1 @@
-# Segmentation-on-curved-surfaces
+# Segmentation on curved surfaces
